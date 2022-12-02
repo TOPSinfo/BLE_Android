@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BLE</string>
+
+    <string name="notifyTitle">hint</string>
+    <string name="gpsNotifyMsg">The current mobile phone scanning Bluetooth needs to open the positioning function
+。</string>
+    <string name="setting">go to settings</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="start_scan">start scanning</string>
+    <string name="stop_scan">stop scanning</string>
+    <string name="expand_search_settings">Expand search settings</string>
+    <string name="retrieve_search_settings">Collapse search settings</string>
+    <string name="connect_fail">Connection failed</string>
+    <string name="active_disconnected">disconnected</string>
+    <string name="disconnected">Disconnect</string>
+    <string name="please_open_blue">Please turn on bluetooth first</string>
+    <string name="select_operation_type">Choose an action type</string>
+    <string name="characteristic">characteristic</string>
+    <string name="data_changed">data changes：</string>
+    <string name="read">read</string>
+    <string name="write">Write</string>
+    <string name="open_notification">Turn on notifications</string>
+    <string name="close_notification">Turn off notifications</string>
+    <string name="service_list">service list</string>
+    <string name="characteristic_list">Feature list</string>
+    <string name="console">Operation console</string>
+    <string name="name">Device broadcast name：</string>
+    <string name="mac">MAC:</string>
+    <string name="service">Serve</string>
+    <string name="type">Service Type (Main Service)</string>
+    <string name="scan_setting">Below you can configure the conditions of the device to be scanned, it can be empty</string>
+    <string name="setting_name">Enter the broadcast name of the Bluetooth device, separated by commas</string>
+    <string name="setting_mac">Enter the mac address of the bluetooth device</string>
+    <string name="setting_uuid">Enter the UUID of the Bluetooth device, separated by commas</string>
+    <string name="input_hex">Please enter the HEX format command</string>
+    <string name="connect">connect</string>
+    <string name="connected">connected</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="enter">Enter</string>
+
+</resources>
