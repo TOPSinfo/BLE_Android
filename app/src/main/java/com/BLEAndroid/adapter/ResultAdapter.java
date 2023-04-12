@@ -18,6 +18,12 @@ import com.BLEAndroid.R;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * Result adapter class
+ * */
+
+
 public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder> {
 
     private final Context context;

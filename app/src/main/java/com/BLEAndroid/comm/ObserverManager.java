@@ -6,6 +6,11 @@ import com.BLEAndroid.data.BleDevice;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ *  Custom observer class to manage
+ *  observable list
+ * */
 public class ObserverManager implements Observable {
 
     public static ObserverManager getInstance() {

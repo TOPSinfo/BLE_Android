@@ -19,6 +19,12 @@ import com.BLEAndroid.R;
 import com.BLEAndroid.adapter.ResultAdapter;
 import com.BLEAndroid.data.BleDevice;
 
+
+/**
+ *  Service list fragment to
+ *  work with provided services by ble
+ *  and ble support device
+ * */
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR2)
 public class ServiceListFragment extends Fragment {
 

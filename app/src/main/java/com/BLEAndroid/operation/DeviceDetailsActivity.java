@@ -21,6 +21,13 @@ import com.BLEAndroid.data.BleDevice;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ *  This activity show detailed
+ *  about connected devices
+ *
+ * */
+
 public class DeviceDetailsActivity extends AppCompatActivity implements Observer {
 
     public static final String KEY_DATA = "key_data";

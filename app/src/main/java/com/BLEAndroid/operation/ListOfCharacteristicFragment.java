@@ -23,6 +23,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+
+/**
+ * This fragment load list of
+ * characteristic of connected devices
+ * */
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR2)
 public class ListOfCharacteristicFragment extends Fragment {
 

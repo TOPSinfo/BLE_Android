@@ -9,6 +9,13 @@ import androidx.annotation.NonNull;
 
 import java.util.Objects;
 
+
+
+/**
+ *  Custom progress dialog or
+ *  loader to show processing on
+ *  screen
+ * */
 public class CustomProgressDialog extends Dialog {
 
 

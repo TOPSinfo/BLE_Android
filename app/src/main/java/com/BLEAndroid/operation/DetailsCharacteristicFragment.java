@@ -29,6 +29,11 @@ import com.BLEAndroid.utils.HexUtil;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * This fragment show detailed about
+ * individual device characteristic
+ * */
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR2)
 public class DetailsCharacteristicFragment extends Fragment {
 

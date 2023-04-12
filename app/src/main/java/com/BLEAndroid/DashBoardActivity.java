@@ -40,6 +40,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+/**
+ *  Main or First Activity that launch
+ *  This set device list fragment
+ *  handle permission for bluetooth
+ * */
+
 public class DashBoardActivity extends AppCompatActivity implements View.OnClickListener {
 
     private static final int REQUEST_CODE_OPEN_GPS = 1;

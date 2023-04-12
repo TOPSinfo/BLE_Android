@@ -19,6 +19,11 @@ import com.BLEAndroid.R;
 import java.util.ArrayList;
 import java.util.List;
 
+
+
+/**
+ * Adapter class for characteristic recylerview
+ * */
 public class CharacteristicsResultAdapter extends RecyclerView.Adapter<CharacteristicsResultAdapter.ViewHolder> {
 
     private final Context context;

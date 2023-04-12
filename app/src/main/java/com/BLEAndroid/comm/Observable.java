@@ -3,6 +3,15 @@ package com.BLEAndroid.comm;
 
 import com.BLEAndroid.data.BleDevice;
 
+
+/**
+ *  Observable interface to
+ *  handle event
+ *  addObserver
+ *  deleteObserver
+ *  notifyObserver
+ * */
+
 public interface Observable {
 
     void addObserver(Observer obj);

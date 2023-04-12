@@ -19,6 +19,10 @@ import com.BLEAndroid.data.BleDevice;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ *  Adapter class for nearby ble devices list
+ * */
 public class DeviceListAdapter extends RecyclerView.Adapter<DeviceListAdapter.ViewHolder> {
 
     private final Context context;
